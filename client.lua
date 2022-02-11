@@ -4,8 +4,8 @@
 
 --- Config ---
 
-activateWay = 0 -- 0 = use command, 1 = use keybind, 2 = use both command and keybind
-keybindKey = 182 -- http://docs.fivem.net/game-references/controls/
+activateWay = 1 -- 0 = use command, 1 = use keybind, 2 = use both command and keybind
+keybindKey = 168 -- http://docs.fivem.net/game-references/controls/
 intCommand = "il" -- If using the command, what do you want the command to be?
 
 
